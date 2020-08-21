@@ -200,6 +200,7 @@
 
 .feynman__subtitle {
   margin: 70px auto auto;
+  width: 400px;
   position: relative;
   z-index: 2;
   line-height: 51px;
@@ -209,13 +210,9 @@
 }
 
 .feynman__link {
-  margin: auto;
   position: absolute;
   right: 48px;
   top: 50%;
-}
-
-.feynman__link_text{
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
