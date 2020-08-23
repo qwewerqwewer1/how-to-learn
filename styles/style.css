@@ -228,16 +228,7 @@
   color: white;
   position: relative;
   overflow: hidden;
-}
-
-.section-title_theme_dark {
-  z-index: 1;
-  position: relative;
-}
-
-.section-title_theme_dark {
-  z-index: 1;
-  position: relative;
+  z-index: 0;
 }
 
 .kaufman__triangle {
@@ -248,13 +239,13 @@
   width: 877px;
   height: 877px;
   background-size: contain;
+  z-index: -1;
 }
 
 .table__cell_theme_dark {
   list-style: none;
   width: 200px;
   margin: 80px 0 0;
-  z-index: 1;
 }
 
 .table__text_theme_dark {
