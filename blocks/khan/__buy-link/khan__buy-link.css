@@ -1,0 +1,16 @@
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+  text-decoration: none;
+  right: -258px; /* = длинна блока 218px+40px отступа по брифу*/
+  top: 0;
+  position: absolute;
+}
+
+.khan__buy-link:hover {
+  box-shadow: border-box;
+  opacity: 0.3;
+  transition: 1s;
+}

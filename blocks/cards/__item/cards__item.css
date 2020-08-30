@@ -1,0 +1,9 @@
+.cards__item {
+  width: 250px;
+  text-align: center;
+  list-style: none;
+}
+
+.cards__item:nth-child(5) {
+  margin-right: 334px;
+}
