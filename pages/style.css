@@ -38,8 +38,8 @@
 @import url(../blocks/khan/quote/khan__quote.css);
 @import url(../blocks/khan/title/khan__title.css);
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/place/_footer/logo_place_footer.css);
-@import url(../blocks/logo/place/_header/logo_place_header.css);
+@import url(../blocks/logo/place/footer/logo_place_footer.css);
+@import url(../blocks/logo/place/header/logo_place_header.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/resources/resources.css);
